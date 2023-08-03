@@ -1,7 +1,7 @@
 # <div align="center"><font size="+5">Hey! I'm Frederico Cunha Afonso </font></div>  
  
 
-<div align="center"><font size="+3">
+<div align="center"><font size="+6">
 Software Engineer Student at
 
 [Universidade do Minho](https://www.uminho.pt/pt/ensino/oferta-educativa/cursos-conferentes-a-grau/_layouts/15/uminho.portalum.ui/pages/catalogocursodetail.aspx?itemid=4079&catid=12)
