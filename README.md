@@ -44,7 +44,7 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="right">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
 **Frederick-CA/Frederick-CA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
