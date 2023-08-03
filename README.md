@@ -29,9 +29,9 @@
 
 
 ### <hr>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frederick-CA&hide_border=true&layout=compact" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frederick-CA&theme=Origamid Next&hide_border=true&layout=compact" align="left" style="width: 100%" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Frederick-CA&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Frederick-CA&theme=Origamid Next&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
