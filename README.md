@@ -28,7 +28,6 @@
 
 
 
-### <hr>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frederick-CA&hide_border=true&theme=dark&layout=compact" align="left" style="width: 100%" />  
 
 <img src="https://github-readme-stats.vercel.app/api?username=Frederick-CA&show_icons=true&count_private=true&theme=dark&hide_border=true" align="left" style="width: 100%" />
@@ -37,7 +36,6 @@
 
 
 
-### <hr>  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=98vyn50iixn5k9rckwydpajvu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color_cover=true&bar_color=00cc0b" /></div>
 
 </td></tr></table>
