@@ -29,9 +29,9 @@
 
 
 ### <hr>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frederick-CA&hide_border=true&theme=rEduc/C# Dracula Theme&layout=compact" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frederick-CA&hide_border=true&theme=gruvbox&layout=compact" align="left" style="width: 100%" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Frederick-CA&show_icons=true&count_private=true&theme=rEduc/C# Dracula Theme&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Frederick-CA&show_icons=true&count_private=true&theme=gruvbox&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
