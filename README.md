@@ -8,7 +8,7 @@ Software Engineer Student at
 </font></div>  
  
 
-<div align="center"><font size="+1">(I "usually" comment in my spare time 😅)</font></div>  
+<div align="center">(I "usually" comment in my spare time 😅)</div>  
  
 
 <br/>  
