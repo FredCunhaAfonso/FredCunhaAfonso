@@ -1,4 +1,4 @@
-## <div align="center">Hey! I'm Frederico Cunha Afonso, a Software Engineer Student at [Universidade do Minho](https://www.uminho.pt/pt/ensino/oferta-educativa/cursos-conferentes-a-grau/_layouts/15/uminho.portalum.ui/pages/catalogocursodetail.aspx?itemid=4079&catid=12)</div>  
+## <div align="center">Hey! I'm Frederico Cunha Afonso, a Software Engineer Student at\n[Universidade do Minho](https://www.uminho.pt/pt/ensino/oferta-educativa/cursos-conferentes-a-grau/_layouts/15/uminho.portalum.ui/pages/catalogocursodetail.aspx?itemid=4079&catid=12)</div>  
   
 
 <div align="center"><font size="+1">I "usually" comment in my spare time 😅</font></div>  
@@ -29,9 +29,9 @@
 
 
 ### <hr>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frederick-CA&theme=dsalo&hide_border=true&theme=dsalo-vsc-theme&layout=compact" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frederick-CA&theme=dsalo&hide_border=true&theme=dark&layout=compact" align="left" style="width: 100%" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Frederick-CA&show_icons=true&count_private=true&theme=dsalo&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Frederick-CA&show_icons=true&count_private=true&theme=dark&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
