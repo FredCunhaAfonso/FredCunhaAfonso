@@ -35,7 +35,6 @@ Software Engineer Student at
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredCunhaAfonso&hide_border=true&theme=dark&layout=compact" align="left" style="width: 100%" />  
 
 <img src="https://github-readme-stats.vercel.app/api?username=FredCunhaAfonso&show_icons=true&count_private=true&theme=dark&hide_border=true" align="left" style="width: 100%" />
 
